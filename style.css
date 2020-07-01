@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+
+
+/* #Navbar {
+
+
+
+
+
+
+   
+    margin-left: 350px;
+    margin-right: 350px;
+    display: inline;
+   
+    
+
+
+} */
+
+
+
+
+        #Navbar {
+
+            
+          
+         
+          
+            text-align: center;
+
+
+        }
+
+
+
+
+    /* #Halo {
+
+
+
+                color: lightcoral;
+                text-align: center;
+                padding-top: 50px;
+                font-size: 75px;
+                background-image: url(Docs/images/windows95.png);
+
+    } */
+
+
+#header {
+
+        background-image: url(Docs/images/windows95.png);
+
+
+
+}
+
+
+
+
+
+body {
+
+
+        background-color: gainsboro;
+        
+
+
+}
+
+
+
+#theFirstHead {
+
+
+            width: 150px;
+            height: 200px;
+
+}
+
+#whoa {
+
+
+            width: 250px;
+            height: 150px;
+            
+            margin: 0 auto;
+            text-align: center;
+            
+
+}
