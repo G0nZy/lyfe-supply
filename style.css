@@ -41,7 +41,7 @@
 
 
 
-    /* #Halo {
+     #Halo {
 
 
 
@@ -51,7 +51,7 @@
                 font-size: 75px;
                 background-image: url(Docs/images/windows95.png);
 
-    } */
+    } 
 
 
 #header {
@@ -89,10 +89,45 @@ body {
 
 
             width: 250px;
-            height: 150px;
+            height: 120px;
             
             margin: 0 auto;
             text-align: center;
             
+
+}
+
+
+#sunMan {
+
+
+            float: right;
+            height: 120px;
+            width: 150px;
+
+}
+
+
+#options
+{
+
+            text-align: center;
+            float: inline-start;
+            margin: 0 auto;
+            margin-left: 100px;
+
+}
+
+#tool {
+
+            height: 150px;
+            width: 150px;
+
+}
+
+#cd {
+
+    height: 150px;
+    width: 150px;
 
 }
